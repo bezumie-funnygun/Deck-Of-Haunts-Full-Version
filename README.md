@@ -269,4 +269,4 @@ This repository serves as the official landing page for Deck of Haunts. The soft
 **Get the most recent version of Deck of Haunts today!**
 
 ---
-**Last updated:** 2026-09-11 14:14:36 UTC
+**Last updated:** 2026-09-11 18:21:00 UTC
